@@ -1,0 +1,5 @@
+/Users/tsdiuco/Desktop/programmingPortfolio/pybind-practice/build/CMakeFiles/module_name.dir
+/Users/tsdiuco/Desktop/programmingPortfolio/pybind-practice/build/CMakeFiles/edit_cache.dir
+/Users/tsdiuco/Desktop/programmingPortfolio/pybind-practice/build/CMakeFiles/rebuild_cache.dir
+/Users/tsdiuco/Desktop/programmingPortfolio/pybind-practice/build/pybind11/CMakeFiles/edit_cache.dir
+/Users/tsdiuco/Desktop/programmingPortfolio/pybind-practice/build/pybind11/CMakeFiles/rebuild_cache.dir
